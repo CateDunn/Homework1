@@ -6,6 +6,8 @@ First Homework Assignment
 1. Title of the web page: Changed from “website” to “Horiseon Home Page”
 2. Added missing id="search-engine-optimization" in order for the link at the top to go to the correlated image below when clicked
 3. Added comments to provide clarity
+4. Updated html tags to be more specific
+5. Added a main tag between the header and footer tag
 
 
 # CSS: 

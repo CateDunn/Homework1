@@ -30,7 +30,7 @@ body{
 }
 
 /*style and text elements for the header and all divs*/
-.header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -39,13 +39,13 @@ body{
 }
 
 /*no list style for the header or ul*/
-.header div ul {
+header nav ul {
     list-style-type: none;
 }
 
 
 /*spaces out the the three li at the top and gives a left margin to creat space from the title*/
-.header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
